@@ -32,7 +32,7 @@ Program dilengkapi dengan mekanisme validasi input untuk menjaga integritas data
 
 ## 📐 DIAGRAM KONSEP
 
-<img width="202" height="702" alt="diagramtp2" src="cpp/dokumentasi/tambah data dan tampilkan data.png" />
+<img width="202" height="702" alt="diagramtp2" src="diagramtp2.png" />
 
 
 **Alasan Pemilihan Class:**
@@ -66,16 +66,16 @@ Program dilengkapi dengan mekanisme validasi input untuk menjaga integritas data
 
 ## DOKUMENTASI PROGRAM
 ### C++
-<img width="1203" height="781" alt="tambah data dan tampilkan data" src="https://github.com/user-attachments/assets/5625c961-6467-49c6-b7d4-69b551d1aa00" />
+<img width="1203" height="781" alt="tambah data dan tampilkan data" src="cpp/dokumentasi/tambah data dan tampilkan data.png" />
 
 ### Java
-<img width="1171" height="779" alt="tambah data dan tampilkan data" src="https://github.com/user-attachments/assets/388bef02-1b1f-4d1e-934f-04f4690471b4" />
+<img width="1171" height="779" alt="tambah data dan tampilkan data" src="java/dokumentasi/tambah data dan tampilkan data.png" />
 
 ### Python
-<img width="1146" height="783" alt="tambah data dan tampilkan data" src="https://github.com/user-attachments/assets/b0156343-8141-492f-bd05-5b2708dd4df8" />
+<img width="1146" height="783" alt="tambah data dan tampilkan data" src="python/dokumentasi/tambah data dan tampilkan data.png" />
 
 ### PHP
-<img width="1409" height="818" alt="tambah film" src="https://github.com/user-attachments/assets/ff3e5286-1b9e-41ab-a256-521573bd7c67" />
+<img width="1409" height="818" alt="tambah film" src="php/dokumentasi/tambah film.png" />
 
-<img width="1340" height="850" alt="tampilkan film" src="https://github.com/user-attachments/assets/9c5facc8-c069-410b-8932-679db68832de" />
+<img width="1340" height="850" alt="tampilkan film" src="php/dokumentasi/tampilkan film.png" />
 
