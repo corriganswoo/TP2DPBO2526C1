@@ -32,7 +32,7 @@ Program dilengkapi dengan mekanisme validasi input untuk menjaga integritas data
 
 ## 📐 DIAGRAM KONSEP
 
-<img width="202" height="702" alt="diagramtp2" src="https://github.com/user-attachments/assets/a30d6913-c8cf-4ea4-9302-6cb04d84ff4c" />
+<img width="202" height="702" alt="diagramtp2" src="cpp/dokumentasi/tambah data dan tampilkan data.png" />
 
 
 **Alasan Pemilihan Class:**
