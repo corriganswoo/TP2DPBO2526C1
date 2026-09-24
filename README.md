@@ -38,7 +38,7 @@ Program dilengkapi dengan mekanisme validasi input untuk menjaga integritas data
 **Alasan Pemilihan Class:**
 1. **KaryaMedia:** KaryaMedia merupakan class paling umum dalam katalog media, bukan hanya film saja melainkan bisa berupa musik atau buku. Oleh karena itu, atribut umum seperti `idMedia`, `judul`, dan `tahunRilis` diletakkan di class ini.
 2. **Film:** Film merupakan kategori yang lebih khusus dari KaryaMedia. Menambahkan atribut spesifik film seperti `genre`, `sutradara`, dan `ratingUsia`.
-3. **FilmLayarLebar:** FilmLayarLebar merupakan turunan dari Film. Mengambil spesifikasi khusus untuk film yang ditayangkan di bioskop komersial dengan atribut khas seperti `hargaTiket`, `jaringanBioskop`, `formatProyeksi`, dan `poster` (khusus GUI/web). Kedepannya bisa ditambahkan class lain untuk diturunkan dari Film seperti `FilmIndie` atau `FilmOTTStream`.
+3. **FilmLayarLebar:** FilmLayarLebar merupakan turunan dari Film. Mengambil spesifikasi khusus untuk film yang ditayangkan di bioskop komersial dengan atribut khas seperti `hargaTiket`, `jaringanBioskop`, dan `formatProyeksi`. Kedepannya bisa ditambahkan class lain untuk diturunkan dari Film seperti `FilmIndie` atau `FilmOTTStream`.
 
 ## ☕️ CLASS & ATRIBUT
 1. **KaryaMedia**
@@ -55,7 +55,6 @@ Program dilengkapi dengan mekanisme validasi input untuk menjaga integritas data
    - `hargaTiket` : float
    - `jaringanBioskop` : string
    - `formatProyeksi` : string
-   - `poster` : string *(khusus PHP)*
 
 ## 🍎 ALUR PROGRAM
 1. Program memuat 5 data default/awal.
